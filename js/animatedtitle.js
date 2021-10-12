@@ -11,4 +11,4 @@ function animateTitle(Title = "vajziiiiii", delay = 300) {
         document.title = newtitle;
     }, delay)
 }
-animateTitle("vizee - Personal Web",300);
+animateTitle("vizee - personal web",300);
